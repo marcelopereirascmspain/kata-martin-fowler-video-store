@@ -1,4 +1,4 @@
-# kata-javascript-template
+# kata-martin-fowler-video-store
 
 ## installing
 
